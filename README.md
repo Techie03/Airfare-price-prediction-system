@@ -374,6 +374,4 @@ This project is open source and available for educational purposes.
 
 ---
 
-*Generated: February 14, 2026*  
-*Project: Airfare Price Prediction System*  
-*Version: 1.0*
+
