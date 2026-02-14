@@ -326,6 +326,11 @@ kfold = KFold(n_splits=5, shuffle=True, random_state=42)
 cv_scores = cross_val_score(model, X, y, cv=kfold, scoring='r2')
 ```
 
+## Results
+
+<img width="5968" height="4169" alt="airfare_visualizations" src="https://github.com/user-attachments/assets/d2c722a5-2dcb-4d52-a9a6-8f0eb4f56afe" />
+<img width="4764" height="3569" alt="airfare_detailed_analysis" src="https://github.com/user-attachments/assets/0a487dbd-9cf7-4737-a4b0-97409ef7dbed" />
+
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
